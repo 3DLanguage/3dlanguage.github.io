@@ -3,7 +3,7 @@ exclude: ['README.md']
 permalink: pretty
 title: '3D Language'
 
-google_analytics_id: null
+google_analytics_id: UA-91106496-2
 homepage:
   show_call_box: false
 logo:
