@@ -9,7 +9,7 @@ promoted: true
 weight: 1
 ---
 
-2020.08 - [Goldman Sachs](https://www.goldmansachs.com/) (Singapore)   
+2020.01 - 2020.08 - [Goldman Sachs](https://www.goldmansachs.com/) (Singapore)   
 2019 - [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html)  
 2017 - [KU Leuven](https://www.kuleuven.be/english/) (Belgium)  
 2017 - [Kyoto Institute of Technology](https://www.kit.ac.jp/)
